@@ -1,10 +1,9 @@
-# FES-Flex box
 <div class="container">
   <div class="box">1</div>
   <div class="box">2</div>
   <div class="box">3</div>
-
-  .container {
+</div>
+.container {
   display: flex;
   flex-direction: row;
   gap: 10px;
